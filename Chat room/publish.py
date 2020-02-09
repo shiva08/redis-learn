@@ -1,6 +1,7 @@
 from settings import redisObject
 import sys
 
+# test
 if __name__ == '__main__':
     name = sys.argv[1]
     channel = sys.argv[2]
